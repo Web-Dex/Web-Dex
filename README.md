@@ -12,7 +12,7 @@ A collection of unique and innovative websites
 + sgsg
 
 
-### License
+## License
 
 [MIT License](https://opensource.org/licenses/MIT)
 
